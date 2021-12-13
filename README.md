@@ -7,6 +7,7 @@
 ### Connect with me:
 
 [<img align="left" alt="sank2000 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="sank2000 | linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="sank2000 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -50,6 +51,7 @@
 <!-- </a> -->
 
 [twitter]: https://twitter.com/sureshbjmca
+[linkedin]: https://www.linkedin.com/in/suresh-b-286764103/
 [instagram]: https://www.instagram.com/sureshmcangl
 
 
