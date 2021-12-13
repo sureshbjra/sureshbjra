@@ -32,14 +32,12 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### Tools and other stuffs:
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MySql](https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=Netlify)
 
 
 <br />
@@ -54,5 +52,17 @@
 [linkedin]: https://www.linkedin.com/in/suresh-b-286764103/
 [instagram]: https://www.instagram.com/sureshmcangl
 
+## :trophy: My Github Stats:
 
-![sureshbjra GitHub stats](https://github-readme-stats.vercel.app/api?username=sureshbjra&show_icons=true&theme=radical)
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=sureshbjra&theme=radical">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sureshbjra&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshbjra&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshbjra&hide=php&theme=tokyonight" />
+</a>
+</div>
