@@ -2,7 +2,7 @@
 ### Suresh B Here <img src="/blink.gif" width="25px">,
 ## I'm a Full-Stack Web Developer
 
-<img alt="GIF" src="/code.gif" width="400px" />
+<img alt="GIF" src="https://github.com/sureshbjra/sureshbjra/blob/6fa08f19a66f859094a790e1b6cd8ead669ad622/meanstack-mernstack-img.png" width="400px" />
 
 
 ### Connect with me:
