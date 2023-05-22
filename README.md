@@ -30,11 +30,9 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Tools and other stuffs:
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
@@ -67,7 +65,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=sureshbjra&theme=radical">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=sureshbjra&count_private=true&show_icons=true&theme=radical" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshbjra&hide=php&theme=tokyonight">
+<!--<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshbjra&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshbjra&hide=php&theme=tokyonight" />
-</a>
+</a>-->
 </div>
