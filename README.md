@@ -4,11 +4,6 @@
   <img alt="GIF" src="https://github.com/sureshbjra/sureshbjra/blob/main/a37oR.gif" width="450" height="280" />
 
 
-### Connect with me:
-
-[<img align="left" alt="sank2000 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-[<img align="left" alt="sank2000 | linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="sank2000 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
