@@ -1,4 +1,4 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Suresh B — Full-Stack Software Developer
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Suresh B — Full-Stack and AI Agent Developer
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=sureshbjra) [![Github](https://img.shields.io/github/followers/sureshbjra?label=Followers&logo=Github)](https://github.com/sureshbjra)
 
@@ -17,7 +17,24 @@
 - 🚕 Currently working on ride-hailing, taxi booking and real-time GPS fleet tracking systems
 - 🍽️ Experienced in seat booking and venue management systems for bars and restaurants
 - ☁️ I deploy, secure and maintain applications on AWS EC2
-- 🤝 Open to collaboration on Next.js, TypeScript and real-time tracking projects
+- 🤝 Open to collaboration on Next.js, TypeScript, AI agent and real-time tracking projects
+
+<br />
+
+### AI and Agentic Development:
+
+- 🤖 Building AI agents that plan, call tools and complete multi-step tasks, not just chat
+- 🔌 Integrating LLMs into real products: booking assistants, support automation and internal dashboards
+- 🧠 Working with tool calling, retrieval-augmented generation (RAG) and the Model Context Protocol (MCP)
+- ⚡ Using AI coding agents daily to ship features faster with reviewed, type-safe code
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-Model_Context_Protocol-000000?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-0055FF?style=flat-square)
+![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 <br />
 
@@ -57,6 +74,18 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+<br />
+
+## :rocket: Featured Projects:
+
+| Project | Overview | Stack |
+| --- | --- | --- |
+| **Ride-Hailing and Taxi Booking Platform** | Full booking platform with rider and driver flows, fare handling, dispatch and an admin dashboard. I own the backend APIs and client delivery. | Next.js, TypeScript, PostgreSQL, Prisma, AWS |
+| **GPS Fleet Tracking Dashboard** | Real-time vehicle tracking with live map view, trip history and reporting for fleet operators. | Next.js, TypeScript, PostgreSQL, Tailwind CSS |
+| **Venue Seat Booking System** | Seat booking and management system for bars and restaurants, covering reservations and venue administration. | Next.js, TypeScript, PostgreSQL |
+| **AI Booking Assistant** *(in progress)* | [Describe it: e.g. a chat agent that takes a ride request in plain language, checks availability through tool calls and creates the booking.] | [Your AI stack] |
+| **[Your AI project name]** | [One or two sentences: the problem, what the agent does, the result.] | [Your AI stack] |
 
 <br />
 
